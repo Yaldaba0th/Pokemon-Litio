@@ -1,0 +1,16 @@
+
+Instrucciones del juego:
+	-Al comenzar la sesion de juego el jugador ingresa su nombre(solo letras)
+	-En la pantalla inicial el jugador presiona un numero para elegir al pokemon correspondiente:
+		1: Slowpoke, Velocidad:lenta, Vida maxima:9
+		2: Psyduck, Velocidad:media, Vida maxima:6
+		3: Caterpie, Velocidad:rapida, Vida maxima:3
+	-Cada pokemon comienza con vida maxima.
+	-Las pokebolas rojas te quitan una vida.
+	-Las frutas amarillas te recuperan una vida, pero no mas de la vida maxima de cada pokemon.
+	-A los pokemones mas lentos les caen frutas mas frecuentemente.
+	-Los personajes solo pueden desplazarse por el suelo, no pueden volar (solo puedes subir hasta la mitad de la pantalla).
+	-Cada segundo ganas puntaje igual a las vidas que tengas.
+	-El juego termina cuando tu vida llega a 0.
+	-Los puntajes quedan registrados y se mostrara el puntaje mas alto junto al tuyo al terminar la partida.
+
